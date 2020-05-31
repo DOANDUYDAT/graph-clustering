@@ -5,7 +5,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 networkx==2.4
 numpy==1.18.4
-pandas==1.0.3
+pandas==1.0.4
 py4j==0.10.7
 pyparsing==2.4.7
 PyQt5==5.14.2
